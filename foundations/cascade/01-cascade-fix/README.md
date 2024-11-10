@@ -16,3 +16,11 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 - Did you make sure to not edit the HTML file?
 - If you added selectors to the CSS, do they target a valid HTML element?
+
+
+Steps: 
+1. Need to make p1 bold with text (check)
+2. Need to make second paragraph smaller but bold (check)
+3. Button needs to be green (confirm button)  (check)
+
+
